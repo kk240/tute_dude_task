@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Dhiraj Saxsena",
+        "date":"14 Sep, 2022",
+        "courseCount": 6,
+        "courses":["UI/UX", "Photoshop","Illustrator","Python", "Mern", "Java"],
+        "refferalAmount":185
+    },
+    {
+        "name":"Subhash Mishra",
+        "date":"15 Sep, 2022",
+        "courseCount": 23,
+        "courses":["UI/UX", "Photoshop","Illustrator","Python", "Mern", "Java","UI/UX", "Photoshop","Illustrator","Python", "Mern", "Java"],
+        "refferalAmount":485
+    },
+    {
+        "name":"Prafull Kumar",
+        "date":"16 Sep, 2022",
+        "courseCount": 6,
+        "courses":["UI/UX", "Photoshop","Illustrator","Python", "Mern", "Java"],
+        "refferalAmount":485
+    }
+]
