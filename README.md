@@ -33,8 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Live Site URL: https://graceful-parfait-692d06.netlify.app/
 
 ## My process
 
